@@ -1,0 +1,62 @@
+.icon-masking .mask-icon {
+    background: none !important;
+}
+
+.sec-title.text-white {
+    color: #A97C50 !important;
+}
+
+.brand-sec1:after {
+    background-color: #E1EAFF;
+}
+
+.service-grid_content {
+    height: 340px;
+}
+
+.feature-circle {
+    max-width: 100% !important;
+}
+
+.feature-circle .media-body {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+.project-grid_content {
+    min-height: 250px;
+}
+
+.map-sec iframe {
+    -webkit-filter: none;
+    filter: none;
+}
+
+.process-card {
+    max-width: 350px;
+    height: 320px;
+}
+
+.header-layout2 .menu-area {
+    background-color: white !important;
+}
+
+.other-serivce-img {
+    height: 100px !important;
+}
+
+#serviceSlider1 p {
+    text-align: left !important;
+}
+
+.th-header {
+    line-height: 0px !important;
+}
+
+.main-menu > ul > li > a {
+    padding: 0px !important;
+}
+
+.main-menu a {
+    font-size: 20px;
+}
